@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: italic;
+    background: linear-gradient(0, rgba(2, 0, 36, 1) 0%, rgba(120, 120, 230, 1) 0%, rgba(5, 198, 237, 1) 45%);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #23092c;
+}
